@@ -16,11 +16,11 @@
     "env": {
         "OWLCMS_RELEASES": {
             "description": "URL where updates are listed",
-            "value": "https://api.github.com/repos/owlcms/owlcms-heroku/releases"
+            "value": "https://api.github.com/repos/side-hustle-2021/owlcms-heroku/releases"
         },
         "OWLCMS_VERSION": {
             "description": "Version number",
-            "value": "4.13.0"
+            "value": "5.0.0-rc01"
         },
         "OWLCMS_ARTIFACT_NAME": {
             "description": "OWLCMS module implemented",
